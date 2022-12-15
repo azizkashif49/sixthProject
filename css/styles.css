@@ -715,6 +715,8 @@ p {
 .box .icon li a:hover{ box-shadow: 3px 3px rgba(255,255,255,0.5); }
 @media only screen and (max-width:990px){
     .box{ margin: 0 0 30px; }
+	li{
+	display: inline;}
 }
 #our-blog-section .cointainer .row .col .blog-card span{
 	color: #fd536f;
